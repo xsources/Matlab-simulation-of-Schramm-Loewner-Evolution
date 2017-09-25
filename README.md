@@ -1,2 +1,2 @@
-# hello-world
-brief description matlab and brownian motion
+# Matlab simulation
+Description and analysis by using simulation of some mathematical/physics phenomena
