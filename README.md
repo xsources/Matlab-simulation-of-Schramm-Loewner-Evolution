@@ -1,2 +1,2 @@
 # Matlab simulation
-Description and analysis by using simulation of some mathematical/physics phenomena
+Description and analysis of some mathematical/physics phenomena by using simulation. 
