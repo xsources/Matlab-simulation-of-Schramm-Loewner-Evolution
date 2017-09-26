@@ -4,7 +4,7 @@ function [y,x]=SLE(n,chi)
 % author : Said Boutiche
 % email : myelearningz@gmail.com
 % date : 2017 Sept. 26
-% usage
+% usage:
 % [y,x]=SLE(n,chi)
 % input:
 % n = number of points (e.g. n=10000)
