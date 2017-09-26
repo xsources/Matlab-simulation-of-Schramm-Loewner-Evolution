@@ -23,9 +23,9 @@ function [y,x]=SLE(n,chi)
  for h=1:n
    p=rand(1);
    if p>0.5
- f1=[0;fz1(f1,chi)];    % call of the first map if p<0.5
+ f1=[0;fz1(f1,chi)];    % recursive call of the first map if p<0.5
    else
- f1=[0;fz2(f1,chi)];    % else call of the second map 
+ f1=[0;fz2(f1,chi)];    % else recursive call of the second map 
    end
  end  
  x=real(f1);            % x is the real part of the curve
