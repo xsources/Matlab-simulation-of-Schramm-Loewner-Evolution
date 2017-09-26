@@ -1,6 +1,6 @@
 function [y,x]=SLE(n,chi)
 %---------------------------------------------------
-% Schramm Lowener Evolution (Matlab simulation of stochastic planar curves)
+% Schramm Loewner Evolution (Matlab simulation of stochastic planar curves)
 % author : Said Boutiche
 % email : myelearningz@gmail.com
 % date : 2017 Sept. 26
