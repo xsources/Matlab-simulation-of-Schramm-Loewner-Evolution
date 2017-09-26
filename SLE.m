@@ -33,7 +33,7 @@ function [y,x]=SLE(n,chi)
 
  figure(1),
  plot(x,y,'r-','LineWidth',1.0);
- title(['planar curve for: [x,y]= SLE(' num2str(n) ',' num2str(chi) ')']);
+title(['planar curve for: [x,y]= SLE(N,\chi)== SLE(' num2str(n) ',' num2str(chi) ')']);
  axis equal
  grid on
 
