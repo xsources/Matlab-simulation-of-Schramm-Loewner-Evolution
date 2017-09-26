@@ -1,0 +1,16 @@
+function D = dijkstra(A, nodes)
+    % This function takes an adjacency matrix called G
+    % and a p-by-2 matrix called pairs.
+    % The pairs matrix will contain pairs of indices.
+    % This function will determine the shortest distance from
+    % the first index in the pair to the second index for
+    % every pair in matrix pairs.
+    %
+    % The function will only return a p-by-1 matrix of shortest
+    % distances. I could use it to also return the shortest path,
+    % but I don't need that data, so only shortest distance is
+    % calculated.
+
+    p = size(pairs, 1);  % Number of pairs
+    v = size(G, 1); % Number of vertices
+    D = [];
