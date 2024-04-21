@@ -10,7 +10,7 @@ This matlab program (3 files: SLE.m, fz1.m, fz2.m) simulates such curves for any
 
 The SLE image (png file) represents a plot for n=50000 points and chi=2, the Loop Erased Random Walk (LERW) case.
 
-# 2- Site percolation simulation in square lattice (Interactive app with python)
+# 2- Site percolation simulation on square lattice (Interactive app with python)
 Python app simulating percolation processes on square lattice of side L. The largest and second largest components evolution are shown from p=0 to p=1 for different size L of the square grid. 
-https://pythonyx.pythonanywhere.com/
+https://pythonyx.pythonanywhere.com/percolation
 
